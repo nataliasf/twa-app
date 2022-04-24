@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sabentis</string>
+    <string name="applicationId">com.etg.sabentis</string>
+    <string name="launch_url">https://colmena.pwa-qa.sabentishosting.com/pwa</string>
+    <string name="scheme">https</string>
+    <string name="hostName">colmena.pwa-qa.sabentishosting.com</string>
+    <string name="assetStatements">
+            [{
+                "relation": ["delegate_permission/common.handle_all_urls"],
+                "target": {
+                    "namespace": "web",
+                    "site": "https://prime.sabentis.com/"
+                }
+            }]
+    </string>
+    <string name="providerAuthority">com.etg.sabentis.fileprovider</string>
+
+
+</resources>
