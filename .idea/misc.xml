@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_colmena.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_colmena_round.xml" value="0.147" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_sabentis.xml" value="0.1" />
       </map>
     </option>
   </component>
